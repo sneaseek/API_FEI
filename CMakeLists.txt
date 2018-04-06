@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
-project(Strojove_Epsilon C)
+project(Pascalov__trojuholnik C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Strojove_Epsilon main.c)
+add_executable(Pascalov__trojuholnik main.c)
